@@ -19,7 +19,13 @@ common. You could print a sentence such as Any of these animals would
 make a great pet!
 '''
 #4-1 9/30/2025/11:23
-Pizzas = ["Cheese","Mozarella","Pepporini","Hawaian]
+Pizzas = ["Cheese","Mozarella","Pepporini","Hawaian"]
 for pizza in Pizzas:
-  prin(f"I like {pizza} pizzas")
-print("I love all pizzas")
+  print(f"I like {pizza} pizzas")
+print("I love pizzas")
+
+#4-2 9/30/2025/11:23
+Animals = ["Dog","Cat","Gerbil","Fish"]
+for pet in Animals:
+  print(f"I would like to have {pet} as a pet")
+print("I like pets")
