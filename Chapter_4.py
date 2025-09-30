@@ -18,4 +18,8 @@ A dog would make a great pet.
 common. You could print a sentence such as Any of these animals would
 make a great pet!
 '''
-Pizzas = ["
+#4-1 9/30/2025/11:23
+Pizzas = ["Cheese","Mozarella","Pepporini","Hawaian]
+for pizza in Pizzas:
+  prin(f"I like {pizza} pizzas")
+print("I love all pizzas")
