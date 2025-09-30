@@ -1,3 +1,4 @@
+'''
 Try It Yourself
 4-1. Pizzas: Think of at least three kinds of your favorite pizza. Store these
 pizza names in a list, and then use a for loop to print the name of each pizza.
@@ -16,3 +17,5 @@ A dog would make a great pet.
 •	 Add a line at the end of your program stating what these animals have in
 common. You could print a sentence such as Any of these animals would
 make a great pet!
+'''
+Pizzas = ["
